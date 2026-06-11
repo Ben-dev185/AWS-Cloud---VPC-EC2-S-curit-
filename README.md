@@ -75,10 +75,7 @@ Ce projet vise à construire une infrastructure cloud sécurisée sur AWS en uti
 - IAM
 - Sécurité Cloud
 - Réseaux Cloud
--<img width="720" height="482" alt="Capture d’écran 2026-06-11 à 15 50 29" src="https://github.com/user-attachments/assets/7131ef3a-b0c1-4178-b446-65e77af9946f" />
-<img width="698" height="448" alt="Capture d’écran 2026-06-11 à 15 49 50" src="https://github.com/user-attachments/assets/a450290b-3d5e-47c2-bb82-e9d6389a17cb" />
-<img width="720" height="305" alt="Capture d’écran 2026-06-11 à 15 48 52" src="https://github.com/user-attachments/assets/33653d6b-24d9-4c22-953a-e4006131165b" />
- Linux
+- Linux
 
 ## Résultat
 
