@@ -57,7 +57,7 @@ Ce projet vise à construire une infrastructure cloud sécurisée sur AWS en uti
 
 ### Création du VPC
 
-![VPC](création & confid vpc.png)
+![VPC](https://github.com/Ben-dev185/AWS-Cloud---VPC-EC2-S-curit-/blob/31930d4437ab15d26061a7f6eaf794afbe7a69aa/cre%CC%81ation%20%26%20confid%20vpc.png)
 
 ### Architecture réseau
 
