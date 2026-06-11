@@ -57,7 +57,7 @@ Ce projet vise à construire une infrastructure cloud sécurisée sur AWS en uti
 
 ### Création du VPC
 
-![VPC](captures/vpc-creation.png)
+![VPC](création & confid vpc.png)
 
 ### Architecture réseau
 
