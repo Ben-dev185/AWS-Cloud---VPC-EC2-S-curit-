@@ -61,7 +61,7 @@ Ce projet vise à construire une infrastructure cloud sécurisée sur AWS en uti
 
 ### Architecture réseau
 
-![Architecture](captures/aws-network.png)
+![Architecture](https://github.com/Ben-dev185/AWS-Cloud---VPC-EC2-S-curit-/blob/efe9b2a7e928507e2d6af03361357901784c1c6a/architecture%20du%20reseau%20aws.png)
 
 ### Tables de routage
 
