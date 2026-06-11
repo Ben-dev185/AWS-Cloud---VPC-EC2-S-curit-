@@ -65,7 +65,7 @@ Ce projet vise à construire une infrastructure cloud sécurisée sur AWS en uti
 
 ### Tables de routage
 
-![Route Tables](captures/route-tables.png)
+![Route Tables](https://github.com/Ben-dev185/AWS-Cloud---VPC-EC2-S-curit-/blob/62a09eea7c3efc70fe59346073e528b8b994704c/routage.png)
 
 ## Compétences démontrées
 
